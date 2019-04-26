@@ -1,2 +1,1 @@
-# GettingStarted
-Aww!someness 
+# Getting Started with Coonicart.  
